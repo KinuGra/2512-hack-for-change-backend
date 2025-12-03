@@ -1,0 +1,44 @@
+# === Go Build Artifacts ===
+bin/
+build/
+dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Go build cache
+*.out
+
+# === Logs ===
+*.log
+
+# === IDE / Editor ===
+# VSCode
+.vscode/
+/.history/
+
+# JetBrains (GoLand)
+.idea/
+*.iml
+
+# === OS Files ===
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# === Environment Variables / Secrets ===
+.env
+*.env
+.env.local
+.env.*.local
+
+# === Temporary Files ===
+tmp/
+temp/
+*.tmp
