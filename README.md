@@ -7,6 +7,9 @@ go mode tidy
 go run cmd/app/main.go
 ```
 
+ローカルの場合は`curl http://localhost:8080/ping
+`で`pong`が返ってくることを確認
+
 # プロジェクト作成
 
 ```
