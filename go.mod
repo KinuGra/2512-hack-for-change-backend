@@ -1,4 +1,4 @@
-module github.com/KinuGra/2512-hack-for-change-backend
+module 2512-hack-for-change-backend
 
 go 1.25.4
 
